@@ -1,2 +1,2 @@
 # DTObserve
-Manage observation with the Dwingeloo Telescope
+Manage observation with the Dwingeloo Telescope.
